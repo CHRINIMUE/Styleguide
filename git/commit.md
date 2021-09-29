@@ -17,7 +17,9 @@ For myself: Use this!!!
 * ✨ for adding new stuff
 * 💬 for adding or changing comments
 * 📝 for fixing typo
+* 🔼 for adding dependencies
 * ⬆ for updating dependencies
+* 🚮 for removing dependencies
 * ✏ for renaming code/files/folders
 * 💄 for improving some stuff
 * 🐛 for fixing a bug
@@ -26,3 +28,5 @@ For myself: Use this!!!
 * 📦 for deploing or packing a new version
 * ♻ for refactoring code
 * 🧹 for cleaning code
+* 💩 for test related stuff
+* 📃 for adding/updating/removing dokumentation
